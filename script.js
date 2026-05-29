@@ -323,23 +323,23 @@ function startPhotoShow() {
     const photos = [
         {
             text: '💕',
-            image: './images/3aeb170d-d0b2-45f4-9639-37d464face07.jpeg'
+            image: './images/1EAF6253-27B6-4E90-89C4-67B87277D7A9.png'
         },
         {
             text: '🎂',
-            image: './images/7436f4ee-5c7d-48fe-bd50-14d58b6a7092.jpeg'
+            image: './images/A68948AD-8DF5-4898-8E14-34ED42FCAC52.png'
         },
         {
             text: '💖',
-            image: './images/AF570591-836D-4C8B-A0DD-0AE6435A619F.png'
+            image: './images/D017CCC4-291F-4987-A121-0B6D4DE2F688.png'
         },
         {
             text: '😘',
-            image: './images/IMG_6480.jpeg'
+            image: './images/F004ACF7-592B-4F6C-A213-E042447AC1CF.png'
         },
         {
             text: '🥰',
-            image: './images/IMG_6511.jpeg'
+            image: './images/F439C6A3-81A2-459D-BAD8-B9E72D9C4778.png'
         }
     ];
     
